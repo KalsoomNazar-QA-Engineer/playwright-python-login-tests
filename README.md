@@ -1,4 +1,5 @@
 # Playwright Python Login Tests
+![Playwright Tests](https://github.com/KalsoomNazar-QA-Engineer/playwright-python-login-tests/actions/workflows/playwright.yml/badge.svg)
 
 Automated UI tests for the login page of [Practice Test Automation](https://practicetestautomation.com/practice-test-login/) using Playwright, Python and pytest.
 
